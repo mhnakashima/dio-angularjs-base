@@ -23,21 +23,7 @@ https://github.com/mhnakashima/dio-angularjs-base
 
 ### Algumas das principais diretivas que utilizamos
  
-|ng-app | Declara um elemento como o elemento raiz da aplicação, ocasionando a mudança do comportamento padrão da tag.  |
-|ng-controller|Especifica um controller JavaScript para aquele HTML em questão.|
-|ng-model |É similar ao ng-bind, mas permite ligação direta bidirecional (two-way data binding ) entre a view e o escopo do aplicativo.  |
-|ng-class | Permite atributos de classe serem carregados dinamicamente. ng-class="{'test': obj.value1 == 'someothervalue' || obj.value2 == 'somethingelse'}"|
-|ng-click| Permite instanciar o evento de click, semelhante ao onclick.|
-|ng-repeat |Instância um elemento por item de um array. |
-|ng-show & ng-hide | Mostra ou esconde um elemento HTML de acordo com o resultado de uma expressão booleana. |
-|ng-switch| Instancia um template, em uma lista de escolhas, dependendo do valor obtido pela expressão.|
-|ng-if|Declaração básica de um 'if' que permite mostrar um elemento se a condição for verdadeira.|
-
-|  ng-app 	|   Declara um elemento como o elemento raiz da aplicação, ocasionando a mudança do comportamento padrão da tag. 	|
-|---	|---	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
+ng-app, ng-controller, ng-model, ng-class, ng-click, ng-repeat, ng-show & ng-hide, ng-switch, ng-if, ng-repeat, ng-style, ng-disabled, ng-required, ng-pristine, ng-dirty 
 
 entre outras
 
