@@ -22,12 +22,17 @@
         </a>
       </nav>
 
-      <div>
-
+      <div class="container" ng-controller="HelloWorldController">
+        <div class="row">
+          <div class="col-12">
+            <h1>{{helloWorldMessage}}</h1>
+          </div>
+        </div>
       </div>
   
     </div>
 
     <script src="./../node_modules/angular/angular.min.js"></script>
+    <script src="./app//modules/app.module.js"></script>
   </body>
 </html>
