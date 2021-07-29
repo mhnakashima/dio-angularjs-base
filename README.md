@@ -34,3 +34,9 @@ entre outras
 - Apagar um registro do Array de pessoas
 - Colocar validações preenchimento do cadastro
 
+### Exercicios - encryptopedia
+- Expandindo, criando mais filtros, 
+- Permitir favoritar uma criptomoeda (adicionar / deletar)
+- visualização do grid em lista / card
+- mais filtros
+
