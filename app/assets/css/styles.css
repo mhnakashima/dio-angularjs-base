@@ -1,0 +1,26 @@
+body{
+    background: #fefefe;
+}
+
+@media screen and (max-width: 30em) {
+    .image{
+       width: 3em;
+    }
+}
+
+.navbar{
+    background: rgba(2, 7, 37, 0.8);
+ }
+
+.card-image{
+    height: 35px;
+    width: 35px;
+
+    background-size: contain;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+h3{
+    font-weight: normal;
+}

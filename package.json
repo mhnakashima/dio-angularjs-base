@@ -1,0 +1,23 @@
+{
+  "name": "dio-angularjs",
+  "version": "1.0.0",
+  "description": "AngularJS app criado para uma parceria entre o Digital Innovation One e a Take",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/angular": "^1.6.45",
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.2.15",
+    "bootstrap": "^5.0.2",
+    "lite-server": "^2.6.1",
+    "tachyons": "^4.12.0"
+  },
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.29"
+  }
+}
