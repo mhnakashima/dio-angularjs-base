@@ -33,6 +33,12 @@ https://github.com/mhnakashima/dio-angularjs-base
 |ng-switch| Instancia um template, em uma lista de escolhas, dependendo do valor obtido pela expressão.|
 |ng-if|Declaração básica de um 'if' que permite mostrar um elemento se a condição for verdadeira.|
 
+|  ng-app 	|   Declara um elemento como o elemento raiz da aplicação, ocasionando a mudança do comportamento padrão da tag. 	|
+|---	|---	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+
 entre outras
 
 ### Exercícios
