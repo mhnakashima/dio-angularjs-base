@@ -39,4 +39,4 @@ entre outras
 - Permitir favoritar uma criptomoeda (adicionar / deletar)
 - visualização do grid em lista / card
 - mais filtros
-
+- Mostrar no results em caso de não ter nenhum resultado
