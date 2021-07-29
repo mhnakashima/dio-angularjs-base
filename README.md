@@ -38,5 +38,7 @@ entre outras
 ### Exercícios
 - Criar um cadastro de uma pessoa
 - Como criar um evento de apagar um item de um array?
-- Editar esse item 
+- Editar esse registro de Pessoas 
+- Apagar um registro do Array de pessoas
+- Colocar validações preenchimento do cadastro
 
